@@ -1,6 +1,6 @@
 name = "internship-worker"
 type = "javascript"
-account_id = ""
+account_id = "6c009d0a3389f7bbaffa59ba6a2dd809"
 workers_dev = true
 route = ""
 zone_id = ""
